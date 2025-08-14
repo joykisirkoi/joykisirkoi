@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Joy! <br/><a href="https://github.com/joykisirkoi">An upcoming Programmer</a>, <a href="https://www.linkedin.com/in/joy-k-99181434b/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joy-k-99181434b/">Upcoming Software Engineer</a></h1>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+Coming soon
+
+   
+
+<h2> 🤳 Connect with me:</h2>
+<img align="left" alt="JoyKisirkoi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/joy-k-99181434b/
 <!--
-**joykisirkoi/joykisirkoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
